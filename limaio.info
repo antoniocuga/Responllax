@@ -1,0 +1,38 @@
+name = Lima I/O
+description = Lima I/O Landing Page
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/normalize.css
+stylesheets[all][] = css/grid.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/style.css
+
+scripts[] = js/jquery.stellar.min.js
+scripts[] = js/waypoints.min.js
+scripts[] = js/jquery.easing.1.3.js
+scripts[] = js/scripts.js
+
+regions[header] = Header
+
+regions[highlighted] = Highlighted
+
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+
+regions[featured_left] = Featured left
+regions[featured_right] = Featured right
+
+regions[footer_first] = Footer first
+regions[footer_second] = Footer second
+regions[footer_third] = Footer third
+regions[footer] = Footer
+
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+version = "7.x-1.2"
+core = "7.x"
+project = "limaio"
+
