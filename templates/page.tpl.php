@@ -34,8 +34,10 @@
 <div class="slide" id="slide2" data-slide="2" data-stellar-background-ratio="0.5">
     <div class="container clearfix">
         <div id="content" class="grid_12">
-            <h1>¿Qué es?</h1>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <h1>Nuestra Solución</h1>
+            <p>Consiste en una red de dispositivos equipados con sensores de medio ambiente que, al ser colocados en distintas parte de una ciudad, reportan data 24x7 a nuestra plataforma en la nube; esta almacena, categoriza y geo-referenciada lo recibido.
+                <br />
+                La data se transforma en información y luego en conocimiento sobre el medio ambiente usando Big Data; y se resume en forma de reportes y gráficas en tiempo real, mapas de calor de estas variables, alertas y otros servicios para la ciudad.</p>
         </div>
     </div>
 </div>
