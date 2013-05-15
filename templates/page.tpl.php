@@ -25,7 +25,7 @@
 <div class="slide" id="slide1" data-slide="1" data-stellar-background-ratio="0.5">
     <div class="container clearfix">
         <div id="content" class="grid_12">
-            <h1>Primer experimento peruano de Internet de las Cosas #IoT para monitoreo del medio ambiente.</h1>      
+            <h1>El futuro de las smart-cities ya viene pronto a tu ciudad</h1>      
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         </div>
     </div>
@@ -46,8 +46,41 @@
     <div class="container clearfix">
         <div id="content" class="grid_12">
             <h1>¿Como?</h1>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<div>
+<div class="data-slide">
+ 
+      
+      Tony Stark style: hardware hecho en casa
+      
+      Diseñamos y construimos nuestro propio hardware basado en Arduino.<br />
+      Cada dispositivo cuenta con sensores medio ambientales de:<br />
+      <ul>
+    <li>Temperatura</li>
+    <li>Humedad</li>
+    <li>Nivel de radiación ultravioleta (UV)</li>
+    <li> Nivel de ruido ambiental</li>
+    <li> Concentración de partículas en el aire (ppm)</li>
+    <li>Concentración de gases nocivos (CO2, CO NH3, NH4, Benceno y alcohol)
+      </li>
+      </li>
+      </ul>
+       Ahora también ofrecemos:<br />
+       <ul>
+       <li>
+      Nivel de luminosidad</li>
+       <li>Coordenadas GPS</li>
+       <li>Presión barométrica</li>
+       <li>Alimentación por paneles solares + batería de larga duración</li>
+       <li>Almacenamiento off-line por meses</li>
+       <li>Comunicación por RF hasta a 10 km </li>
+       </ul>
+</div>
+<div class="image-slide">
+<img src="<?php ?>" />
+</div>
+</div>
+            
         </div>
     </div>
 </div>
