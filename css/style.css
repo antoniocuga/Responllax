@@ -108,9 +108,9 @@ a:visited {
 
 #slide2{
     background-image:url('../images/limaiobg.png');
-	background-repeat:no-repeat;
-	background-position:center center;
-    background-color:#f68f67;
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-color:#197eb8;
     color:#ffffff;
 }
 #slide2 h1 {
@@ -127,6 +127,17 @@ a:visited {
     padding-bottom:20px;
     font-weight: 400;
 }
+#slide2 p {
+    width: 60%;
+    float: left;
+}
+
+#slide2 img {
+    width: 30%;
+    float: right;
+}
+
+
 
 
 
@@ -210,9 +221,10 @@ a:visited {
     }
 
     .navigation li{
-        float: left;
-        width:25%;
+        float: left;        
         padding:0;
+        margin: 1%;
+        
     }
 
     .slide{
